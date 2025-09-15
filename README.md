@@ -1,6 +1,6 @@
 <div align="center">
-<h2>Rory Security</h2>
-<img src="https://cdn.discordapp.com/attachments/931125155621666836/1075110937872314460/Logo_4.png" width="300" height="300" />
+<h2>SkeldriaSecurity</h2>
+<img src="img/SkeldriaX.png" width="300" height="300" />
 </div>
 <h2>config.json Objects :</h2>
 
@@ -53,15 +53,15 @@ If you have any questions or are concerned about what data might be being stored
 ```json
 
 {
-  "name": "rory-security",
-  "version": "2.3.0",
-  "description": "Coded By MoonTeam",
+  "name": "skeldria-security",
+  "version": "1.0",
+  "description": "Coded By SkeldriaTeam/FvxkYqnxXD",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [Security],
-  "author": "AbolParzival || AmiraliSmath",
+  "author": "SkeldriaCEO || FvxkYqnxXD",
   "license": "MIT",
   "devDependencies": {
     "node": "^18.12.1"
@@ -91,9 +91,9 @@ Type `npm i` to install npms our click the button blow => 
 
 ## Aboute this bot:
 
-**Rory Security** is not a personal bot or specific to a server, Rory Bot is public and `multi-guild`
+**SkeldriaSecurity** is not a personal bot or specific to a server, Rory Bot is public and `multi-guild`
 
-**Rory** is a professional security bot and its main feature is the **recovery** system `/recover` command.
+**SkeldriaX** is a professional security bot and its main feature is the **recovery** system `/recover` command.
 
 ## Commands:
 
