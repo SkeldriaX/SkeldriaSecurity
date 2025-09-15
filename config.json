@@ -1,0 +1,12 @@
+{
+	"token": "TOKEN AQUÍ",
+	"clientID": "ID DEL BOT",
+	"prefix": "s!",
+	"voiceCN": "",
+	"FvxkYqnxXD": "",
+	"owner2name": "",
+	"GuildLogs": "",
+	"messages": {
+		"COOLDOWN_MESSAGE": "Estas en cooldown por: `<duration>`!"
+	}
+}
