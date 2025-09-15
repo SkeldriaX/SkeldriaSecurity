@@ -121,20 +121,3 @@ Type `npm i` to install npms our click the button blow => 
 > 
 > **/whitlist** `Whitlist Users`
 
-## __Developers__:
-	
-<div align="left">
-<img src="https://user-images.githubusercontent.com/106273190/206874721-44867a9e-15fd-4988-b44c-ea16f2583234.png" align="left" height="115" style="width: 12%" ><a/>
-  <h2>ᴀʙᴏʟꜰᴀᴢʟ ᴍᴏʜᴀᴍᴍᴀᴅɪ...</h2>
-  <a href="https://www.instagram.com/parzivalw_/"><img src="https://cdn.discordapp.com/attachments/931125155621666836/1074404423226376272/icons8-instagram-50.png" height="35" style="width: 3.5%" ><a/>
-  <a href="https://github.com/Parzivalw00"><img src="https://cdn.discordapp.com/attachments/931125155621666836/1074404359783329802/icons8-github-50.png" height="35" style="width: 3.5%" ><a/></div>
-
-<div align="right">
-<img src="https://media.discordapp.net/attachments/1055448903752876072/1065385342913495040/12bbadd4c9b42706af74872809e27cc6.png" align="right" height="115" style="width: 12%" ></a>
-  <h2>ᴀᴍɪʀᴀʟɪ sʜᴀʜsᴀᴠᴀʀɪ...</h2>
-
-  <a href="https://www.instagram.com/smath_org/"><img src="https://cdn.discordapp.com/attachments/931125155621666836/1074404423226376272/icons8-instagram-50.png" height="35" style="width: 3.5%" ><a/>
-  <a href="https://github.com/Amir-Smath"><img src="https://cdn.discordapp.com/attachments/931125155621666836/1074404359783329802/icons8-github-50.png" height="35" style="width: 3.5%" ><a/></div>
-<br/>
-	
-**⌠💛⌡ Support Server:『 https://discord.gg/moonteam 』⌠💜⌡ GitHub:『 https://github.com/MoonTeam-Dev 』**
